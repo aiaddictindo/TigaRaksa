@@ -1,0 +1,6 @@
+{
+  "name": "Tiga Kerajaan vs Monster - TikTok Live Auto Battler",
+  "description": "Game interaktif auto-battler perebutan wilayah untuk live streaming TikTok. Pertarungan 3 Kerajaan vs Monster berbasis chat, like, gift, dan kontrol Game Master.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
